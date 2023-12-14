@@ -1,0 +1,5 @@
+requests==2.26.0
+sqlite3
+threading
+configparser
+python-telegram-bot==20.4
